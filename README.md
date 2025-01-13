@@ -4,9 +4,9 @@
 
 <img src="https://via.placeholder.com/800x200" alt="Banner Personalizado">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
-[![GitHub followers](https://img.shields.io/github/followers/tu-usuario?style=social)](https://github.com/tu-usuario)
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=tu-usuario.tu-repo)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rodvels/)
+[![GitHub followers](https://img.shields.io/github/followers/rodrigovelasquez2?style=social)](https://github.com/rodrigovelasquez2)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=rodrigovelasquez2.tu-repo)
 
 ## Sobre mí
 - 🎓 Estudiante de Ingeniería de Sistemas 
