@@ -3,8 +3,7 @@
 </div>
 
 <!--Colocar aqui el banner-->
-<!--<img src="https://via.placeholder.com/800x200" alt="Banner Personalizado"> --->
-
+<!--<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj9i0HBomVepR6AMsmIrZAuU1MOBwWiEtAtA&s/800x200" alt="Banner Personalizado"> -->
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rodvels/)
 [![GitHub followers](https://img.shields.io/github/followers/rodrigovelasquez2?style=social)](https://github.com/rodrigovelasquez2)
@@ -13,9 +12,18 @@
 - 🎓 Estudiante de Ingeniería de Sistemas 
 - 📊 Apasionado por la Inteligencia de Negocios y el Desarrollo Backend
 - 💡 Explorando proyectos de desarrollador backend
-- 🌱 Actualmente aprendiendo [Python] 
 - 🚀 Interesado en oportunidades de prácticas profesionales
-
+    <h4 align="left">Backend</h4>
+    <p align="left">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" alt="spring" width="60" height="60" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="java" width="60" height="60" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="python" width="60" height="60" />
+    </p>
+    <h4 align="left">Base de Datos</h4>
+    <p align="left">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="60" height="60"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60" />
+    </p>
 <br>
 
 ## Proyectos
