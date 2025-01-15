@@ -1,5 +1,6 @@
 <div align="center">
 <h1 align="center">Hola, soy Rodrigo 👋</h1>
+    <h6>Puedes llamarme: RODVELS</h6>
 </div>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rodvels/)
@@ -37,7 +38,7 @@
             <h3 align="center">Gestor de productos y usuarios</h3>
             <div align="center">
                 <a href="https://github.com/rodrigovelasquez2/Gestor-de-productos" target="_blank">
-                    <img src="https://i.postimg.cc/zv1V6TM9/catalogo-PNG.png" width="200" alt="Gestor de productos">
+                    <img src="https://i.postimg.cc/zv1V6TM9/catalogo-PNG.png" width="400" alt="Gestor de productos">
                 </a>
                 <p>
                     <a href="https://github.com/rodrigovelasquez2/Gestor-de-productos" target="_blank">
@@ -52,7 +53,7 @@
             <h3 align="center">Clubes Autónomo</h3>
             <div align="center">
                 <a href="https://github.com/rodrigovelasquez2/Clubes-Autonomo" target="_blank">
-                    <img src="https://i.postimg.cc/QC4VtvVr/chatwebs.png" width="200" alt="Clubes Autónomo">
+                    <img src="https://i.postimg.cc/QC4VtvVr/chatwebs.png" width="400" alt="Clubes Autónomo">
                 </a>
                 <p>
                     <a href="https://github.com/rodrigovelasquez2/Clubes-Autonomo" target="_blank">
@@ -67,7 +68,7 @@
             <h3 align="center">Predicción de diabetes</h3>
             <div align="center">
                 <a href="https://yummi-diabetes-prediction.onrender.com/form" target="_blank">
-                    <img src="https://i.postimg.cc/52G7vtDX/Diabetes.png" width="200" alt="Predicción de diabetes">
+                    <img src="https://i.postimg.cc/52G7vtDX/Diabetes.png" width="400" alt="Predicción de diabetes">
                 </a>
                 <p>
                     <a href="https://yummi-diabetes-prediction.onrender.com/form" target="_blank">
@@ -88,7 +89,7 @@
             <h3 align="center">Pronto!</h3>
             <div align="center">
                 <a href="https://github.com/rodrigovelasquez2/rodrigovelas2/edit/main/README.md" target="_blank">
-                    <img src="https://media.istockphoto.com/id/1417048081/vector/red-coming-soon-stamp.jpg?s=612x612&w=0&k=20&c=h_2iKUDBLVK0w4NRrIAFCeTCyPazBMYD6OnI7VKDDjA=" width="200" alt="Gestor de productos">
+                    <img src="https://media.istockphoto.com/id/1417048081/vector/red-coming-soon-stamp.jpg?s=612x612&w=0&k=20&c=h_2iKUDBLVK0w4NRrIAFCeTCyPazBMYD6OnI7VKDDjA=" width="400" alt="Gestor de productos">
                 </a>
                 <p>
                     <a href="#" target="_blank">
@@ -103,7 +104,7 @@
             <h3 align="center">Pronto!</h3>
             <div align="center">
                 <a href="https://github.com/rodrigovelasquez2/rodrigovelas2/edit/main/README.md" target="_blank">
-                    <img src="https://media.istockphoto.com/id/1417048081/vector/red-coming-soon-stamp.jpg?s=612x612&w=0&k=20&c=h_2iKUDBLVK0w4NRrIAFCeTCyPazBMYD6OnI7VKDDjA=" width="200" alt="Gestor de productos">
+                    <img src="https://media.istockphoto.com/id/1417048081/vector/red-coming-soon-stamp.jpg?s=612x612&w=0&k=20&c=h_2iKUDBLVK0w4NRrIAFCeTCyPazBMYD6OnI7VKDDjA=" width="400" alt="Gestor de productos">
                 </a>
                 <p>
                     <a href="#" target="_blank">
@@ -118,7 +119,7 @@
             <h3 align="center">Pronto!</h3>
             <div align="center">
                 <a href="https://github.com/rodrigovelasquez2/rodrigovelas2/edit/main/README.md" target="_blank">
-                    <img src="https://media.istockphoto.com/id/1417048081/vector/red-coming-soon-stamp.jpg?s=612x612&w=0&k=20&c=h_2iKUDBLVK0w4NRrIAFCeTCyPazBMYD6OnI7VKDDjA=" width="200" alt="Gestor de productos">
+                    <img src="https://media.istockphoto.com/id/1417048081/vector/red-coming-soon-stamp.jpg?s=612x612&w=0&k=20&c=h_2iKUDBLVK0w4NRrIAFCeTCyPazBMYD6OnI7VKDDjA=" width="400" alt="Gestor de productos">
                 </a>
                 <p>
                     <a href="#" target="_blank">
@@ -132,10 +133,6 @@
     </tr>
 </table>
 
-
-
-
-
 <!-- Guía para agregar más proyectos -->
 <!-- Para añadir más filas, copia el siguiente código y reemplaza los contenidos: -->
 <!--
@@ -144,7 +141,7 @@
 <h3 align="center">Nombre del proyecto</h3>
 <div align="center">
 <a href="LINK_DEL_PROYECTO" target="_blank">
-<img src="URL_DE_LA_IMAGEN" width="200" alt="Descripción breve">
+<img src="URL_DE_LA_IMAGEN" width="400" alt="Descripción breve">
 </a>
 <p>
 <a href="LINK_DEL_PROYECTO" target="_blank">
