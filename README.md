@@ -1,6 +1,5 @@
 <div align="center">
-<h1 align="center">Hola, soy Rodrigo 👋</h1>
-    <h6>Puedes llamarme: RODVELS</h6>
+<h1 align="center">Hola 👋</h1>
 </div>
 
 <!--Colocar aqui el banner-->
@@ -85,7 +84,7 @@
     </tr>
 </table>
 
-## Proyectos - Data Analytics & Visualization
+## Proyectos - Visualization
 <table>
     <tr>
         <td width="33%">
