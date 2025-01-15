@@ -3,6 +3,9 @@
     <h6>Puedes llamarme: RODVELS</h6>
 </div>
 
+<!--Colocar aqui el banner-->
+[![MR-RODVELS.png](https://i.postimg.cc/XvSyfPFc/MR-RODVELS.png)](https://postimg.cc/0znQxcVb)
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rodvels/)
 [![GitHub followers](https://img.shields.io/github/followers/rodrigovelasquez2?style=social)](https://github.com/rodrigovelasquez2)
 
