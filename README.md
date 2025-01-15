@@ -23,58 +23,113 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="60" height="60"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60" />
 </p>
-
 <br>
 
 ## Proyectos - Backend
 <table>
-<tr>
-<td width="33%">
-<h3 align="center">Gestor de productos y usuarios</h3>
-<div align="center">
-<a href="https://github.com/rodrigovelasquez2/Gestor-de-productos" target="_blank">
-<img src="https://i.postimg.cc/zv1V6TM9/catalogo-PNG.png" width="200" alt="Gestor de productos">
-</a>
-<p>
-<a href="https://github.com/rodrigovelasquez2/Gestor-de-productos" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-00b4d8?style=for-the-badge&logo=github&logoColor=white">
-</a>
-</p>
-<p>Aplicación web en Java con autenticación y diseño responsivo usando Bootstrap 5.</p>
-</div>
-</td>
-
-<td width="33%">
-<h3 align="center">Clubes Autónomo</h3>
-<div align="center">
-<a href="https://github.com/rodrigovelasquez2/Clubes-Autonomo" target="_blank">
-<img src="https://i.postimg.cc/QC4VtvVr/chatwebs.png" width="200" alt="Clubes Autónomo">
-</a>
-<p>
-<a href="https://github.com/rodrigovelasquez2/Clubes-Autonomo" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-00b4d8?style=for-the-badge&logo=github&logoColor=white">
-</a>
-</p>
-<p>Aplicación Spring Boot para estudiantes con videos recientes.</p>
-</div>
-</td>
-
-<td width="33%">
-<h3 align="center">Predicción de diabetes</h3>
-<div align="center">
-<a href="https://yummi-diabetes-prediction.onrender.com/form" target="_blank">
-<img src="https://i.postimg.cc/52G7vtDX/Diabetes.png" width="200" alt="Predicción de diabetes">
-</a>
-<p>
-<a href="https://yummi-diabetes-prediction.onrender.com/form" target="_blank">
-<img src="https://img.shields.io/badge/VER PROYECTO-00b4d8?style=for-the-badge&logo=github&logoColor=white">
-</a>
-</p>
-<p>Aplicación Flask para predecir diabetes.</p>
-</div>
-</td>
-</tr>
+    <tr>
+        <td width="33%">
+            <h3 align="center">Gestor de productos y usuarios</h3>
+            <div align="center">
+                <a href="https://github.com/rodrigovelasquez2/Gestor-de-productos" target="_blank">
+                    <img src="https://i.postimg.cc/zv1V6TM9/catalogo-PNG.png" width="200" alt="Gestor de productos">
+                </a>
+                <p>
+                    <a href="https://github.com/rodrigovelasquez2/Gestor-de-productos" target="_blank">
+                        <img
+                            src="https://img.shields.io/badge/CÓDIGO-00b4d8?style=for-the-badge&logo=github&logoColor=white">
+                    </a>
+                </p>
+                <p>Aplicación web en Java con autenticación y diseño responsivo usando Bootstrap 5.</p>
+            </div>
+        </td>
+        <td width="33%">
+            <h3 align="center">Clubes Autónomo</h3>
+            <div align="center">
+                <a href="https://github.com/rodrigovelasquez2/Clubes-Autonomo" target="_blank">
+                    <img src="https://i.postimg.cc/QC4VtvVr/chatwebs.png" width="200" alt="Clubes Autónomo">
+                </a>
+                <p>
+                    <a href="https://github.com/rodrigovelasquez2/Clubes-Autonomo" target="_blank">
+                        <img
+                            src="https://img.shields.io/badge/CÓDIGO-00b4d8?style=for-the-badge&logo=github&logoColor=white">
+                    </a>
+                </p>
+                <p>Aplicación Spring Boot para estudiantes con videos recientes.</p>
+            </div>
+        </td>
+        <td width="33%">
+            <h3 align="center">Predicción de diabetes</h3>
+            <div align="center">
+                <a href="https://yummi-diabetes-prediction.onrender.com/form" target="_blank">
+                    <img src="https://i.postimg.cc/52G7vtDX/Diabetes.png" width="200" alt="Predicción de diabetes">
+                </a>
+                <p>
+                    <a href="https://yummi-diabetes-prediction.onrender.com/form" target="_blank">
+                        <img
+                            src="https://img.shields.io/badge/VER PROYECTO-00b4d8?style=for-the-badge&logo=github&logoColor=white">
+                    </a>
+                </p>
+                <p>Aplicación Flask para predecir diabetes.</p>
+            </div>
+        </td>
+    </tr>
 </table>
+
+## Proyectos - Data Analytics & Visualization
+<table>
+    <tr>
+        <td width="33%">
+            <h3 align="center">Pronto!</h3>
+            <div align="center">
+                <a href="https://github.com/rodrigovelasquez2/rodrigovelas2/edit/main/README.md" target="_blank">
+                    <img src="https://media.istockphoto.com/id/1417048081/vector/red-coming-soon-stamp.jpg?s=612x612&w=0&k=20&c=h_2iKUDBLVK0w4NRrIAFCeTCyPazBMYD6OnI7VKDDjA=" width="200" alt="Gestor de productos">
+                </a>
+                <p>
+                    <a href="#" target="_blank">
+                        <img
+                            src="https://img.shields.io/badge/CÓDIGO-00b4d8?style=for-the-badge&logo=github&logoColor=white">
+                    </a>
+                </p>
+                <p>Comming son</p>
+            </div>
+        </td>
+        <td width="33%">
+            <h3 align="center">Pronto!</h3>
+            <div align="center">
+                <a href="https://github.com/rodrigovelasquez2/rodrigovelas2/edit/main/README.md" target="_blank">
+                    <img src="https://media.istockphoto.com/id/1417048081/vector/red-coming-soon-stamp.jpg?s=612x612&w=0&k=20&c=h_2iKUDBLVK0w4NRrIAFCeTCyPazBMYD6OnI7VKDDjA=" width="200" alt="Gestor de productos">
+                </a>
+                <p>
+                    <a href="#" target="_blank">
+                        <img
+                            src="https://img.shields.io/badge/CÓDIGO-00b4d8?style=for-the-badge&logo=github&logoColor=white">
+                    </a>
+                </p>
+                <p>Comming son</p>
+            </div>
+        </td>
+        <td width="33%">
+            <h3 align="center">Pronto!</h3>
+            <div align="center">
+                <a href="https://github.com/rodrigovelasquez2/rodrigovelas2/edit/main/README.md" target="_blank">
+                    <img src="https://media.istockphoto.com/id/1417048081/vector/red-coming-soon-stamp.jpg?s=612x612&w=0&k=20&c=h_2iKUDBLVK0w4NRrIAFCeTCyPazBMYD6OnI7VKDDjA=" width="200" alt="Gestor de productos">
+                </a>
+                <p>
+                    <a href="#" target="_blank">
+                        <img
+                            src="https://img.shields.io/badge/CÓDIGO-00b4d8?style=for-the-badge&logo=github&logoColor=white">
+                    </a>
+                </p>
+                <p>Comming son</p>
+            </div>
+        </td>
+    </tr>
+</table>
+
+
+
+
 
 <!-- Guía para agregar más proyectos -->
 <!-- Para añadir más filas, copia el siguiente código y reemplaza los contenidos: -->
