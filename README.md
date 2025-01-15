@@ -30,18 +30,23 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Proyecto 1</h3>
+<h3 align="center">Proyecto - Gestor de productos y usuarios</h3>
 <div align="center">
-<a href="https://github.com/rodrigovelasquez2/tu-proyecto" target="_blank"><img src="https://via.placeholder.com/400x200" width="400" alt="Proyecto 1"></a>
+<a href="https://github.com/rodrigovelasquez2/Gestor-de-productos" target="_blank"><img src="https://i.postimg.cc/zv1V6TM9/catalogo-PNG.png" width="400" alt="Proyecto 1"></a>
 <p>
 <a href="https://github.com/rodrigovelasquez2/tu-proyecto" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-00b4d8?style=for-the-badge&logo=github&logoColor=white">
 </a>
-<a href="https://youtu.be/enlace-video" target="_blank">
+    
+<!--Video-->
+<!-- <a href="https://youtu.be/enlace-video" target="_blank">
 <img src="https://img.shields.io/badge/-Video-turquoise?style=for-the-badge&color=00e676">
-</a>
+</a> -->
+    
 </p>
-<p>Descripción breve del proyecto. Incluye tecnologías usadas y características principales.</p>
+<p>
+Aplicación web desarrollada en Java que permite gestionar productos y usuarios. Incluye autenticación y un diseño responsivo utilizando Bootstrap 5. 
+</p>
 </div>
 </td>
 
