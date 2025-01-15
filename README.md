@@ -50,21 +50,31 @@ Aplicación web desarrollada en Java que permite gestionar productos y usuarios.
 </div>
 </td>
 
+<!--Segundo proyecto-->
 <td width="50%">
-<h3 align="center">Proyecto 2</h3>
-<div align="center">
-<a href="https://github.com/rodrigovelasquez2/tu-proyecto2" target="_blank"><img src="https://via.placeholder.com/400x200" width="400" alt="Proyecto 2"></a>
-<p>
-<a href="https://github.com/rodrigovelasquez2/tu-proyecto2" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-0077b6?style=for-the-badge&logo=github&logoColor=white">
-</a>
-<a href="https://youtu.be/enlace-video2" target="_blank">
-<img src="https://img.shields.io/badge/-Video-darkgreen?style=for-the-badge&color=00c853">
-</a>
+    <h3 align="center">Proyecto - Clubes Autónomo</h3>
+    <div align="center">
+        <a href="https://github.com/rodrigovelasquez2/Clubes-Autonomo" target="_blank"><img
+                src="https://i.postimg.cc/QC4VtvVr/chatwebs.png" width="455" alt="Proyecto 1"></a>
+        <p>
+            <a href="https://github.com/rodrigovelasquez2/Clubes-Autonomo" target="_blank">
+                <img
+                    src="https://img.shields.io/badge/CÓDIGO-00b4d8?style=for-the-badge&logo=github&logoColor=white">
+            </a>
+            <!--Video-->
+            <!-- <a href="https://youtu.be/enlace-video" target="_blank">
+<img src="https://img.shields.io/badge/-Video-turquoise?style=for-the-badge&color=00e676">
+</a> -->
+
 </p>
-<p>Descripción breve del proyecto. Incluye tecnologías usadas y características principales.</p>
+<p>
+    Una aplicación web desarrollada con Spring Boot que permite a los estudiantes acceder a una
+    serie de
+    videos recientes
+</p>
 </div>
 </td>
+
 </tr>
 </table>
 
