@@ -17,13 +17,18 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="java" width="60" height="60" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="python" width="60" height="60" />
 </p>
-
 <h4 align="left">Base de Datos</h4>
 <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="60" height="60"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60" />
 </p>
+<h4 align="left">Visualización</h4>
+<p align="left">
+    <img src="https://i.pinimg.com/originals/ff/ca/de/ffcade7ea39de9b876eb76bbbd4fedb5.png" width="100" height="60"/>
+</p>
 <br>
+
+
 
 ## Proyectos - Backend
 <table>
