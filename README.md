@@ -78,6 +78,30 @@ Aplicación web desarrollada en Java que permite gestionar productos y usuarios.
 </tr>
 </table>
 
+<!--Segunda fila-->
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Proyecto - Predicción de diabetes</h3>
+<div align="center">
+<a href="https://yummi-diabetes-prediction.onrender.com/form" target="_blank"><img src="https://i.postimg.cc/52G7vtDX/Diabetes.png" width="400" alt="Proyecto 1"></a>
+<p>
+<a href="https://yummi-diabetes-prediction.onrender.com/form" target="_blank">
+<img src="https://img.shields.io/badge/VER PROYECTO-00b4d8?style=for-the-badge&logo=github&logoColor=white">
+</a>
+    
+</p>
+<p>
+Aplicación web desarrollada Python bajo el framework Flask.
+</p>
+</div>
+</td>
+
+
+</tr>
+</table>
+
 <br>
 
 ## Estadísticas de GitHub
