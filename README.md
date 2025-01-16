@@ -93,7 +93,7 @@
                 <a href="https://i.postimg.cc/6pD1dBYj/Analizando-Reporte-Ventas.png" target="_blank">
                     <img src="https://i.postimg.cc/6pD1dBYj/Analizando-Reporte-Ventas.png" width="700" alt="Gestor de productos">
                 </a>
-                <p>Dashboard diseñado para analizar el total de ventas de un mercado de vehículos. 
+                <p>Dashboard diseñado en Power Bi para analizar el total de ventas de un mercado de vehículos. 
    Utiliza funciones DAX avanzadas para realizar cálculos y modelar datos de manera eficiente, 
    ofreciendo información clave para la toma de decisiones.</p>
                 </p>
