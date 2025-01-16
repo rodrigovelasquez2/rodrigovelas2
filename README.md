@@ -91,7 +91,7 @@
     </tr>
 </table>
 
-## Proyectos - Data & Visualization 
+## Proyectos - Data analytics & Visualization 
 <table>
     <tr>
         <td width="33%">
