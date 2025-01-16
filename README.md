@@ -84,7 +84,7 @@
     </tr>
 </table>
 
-## Proyectos - Power Bi
+## Proyectos - Data & Visualization 
 <table>
     <tr>
         <td width="33%">
@@ -99,19 +99,19 @@
                 </p>
             </div>
         </td>
-<!--         <td width="33%">
-            <h3 align="center">Pronto!</h3>
+         <td width="33%">
+            <h3 align="center">Analisis de ventas-Clustering</h3>
             <div align="center">
                 <a href="https://github.com/rodrigovelasquez2/rodrigovelas2/edit/main/README.md" target="_blank">
-                    <img src="https://media.istockphoto.com/id/1417048081/vector/red-coming-soon-stamp.jpg?s=612x612&w=0&k=20&c=h_2iKUDBLVK0w4NRrIAFCeTCyPazBMYD6OnI7VKDDjA=" width="400" alt="Gestor de productos">
+                    <img src="https://github.com/rodrigovelasquez2/Analisis-de-ventas-con-Clustering/blob/main/images/Clustering.PNG" width="400" alt="Analisis-de-ventas-con-Clustering">
                 </a>
                 <p>
-                    <a href="#" target="_blank">
+                    <a href="https://github.com/rodrigovelasquez2/Analisis-de-ventas-con-Clustering.git" target="_blank">
                         <img
                             src="https://img.shields.io/badge/CÓDIGO-00b4d8?style=for-the-badge&logo=github&logoColor=white">
                     </a>
                 </p>
-                <p>Comming son</p>
+                <p>Desarrollado en Google Colab con Python y PySpark</p>
             </div>
         </td>
         <td width="33%">
@@ -128,7 +128,7 @@
                 </p>
                 <p>Comming son</p>
             </div>
-        </td> -->
+        </td> 
     </tr>
 </table>
 
