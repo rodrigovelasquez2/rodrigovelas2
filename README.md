@@ -114,7 +114,7 @@
                 <p>Desarrollado en Google Colab con Python y PySpark</p>
             </div>
         </td>
-        <td width="33%">
+<!--         <td width="33%">
             <h3 align="center">Pronto!</h3>
             <div align="center">
                 <a href="https://github.com/rodrigovelasquez2/rodrigovelas2/edit/main/README.md" target="_blank">
@@ -128,7 +128,7 @@
                 </p>
                 <p>Comming son</p>
             </div>
-        </td> 
+        </td>  -->
     </tr>
 </table>
 
