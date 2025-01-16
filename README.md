@@ -63,7 +63,11 @@
                             src="https://img.shields.io/badge/CÓDIGO-00b4d8?style=for-the-badge&logo=github&logoColor=white">
                     </a>
                 </p>
-                <p>Aplicación Spring Boot para estudiantes con videos recientes.</p>
+                <p>Aplicación Spring Boot para estudiantes con videos recientes.
+                </p>
+                 <h6 align="center">
+                En colaboración con: <a href="https://github.com/TanKv7" target="_blank">TanKv7</a>
+            </h6>
             </div>
         </td>
         <td width="33%">
@@ -80,6 +84,9 @@
                 </p>
                 <p>Aplicación Flask para predecir diabetes.</p>
             </div>
+            <h6 align="center">
+                En colaboración con: <a href="https://github.com/TanKv7" target="_blank">TanKv7</a>
+            </h6>
         </td>
     </tr>
 </table>
@@ -111,7 +118,11 @@
                             src="https://img.shields.io/badge/CÓDIGO-00b4d8?style=for-the-badge&logo=github&logoColor=white">
                     </a>
                 </p>
-                <p>Desarrollado en Google Colab con Python y PySpark</p>
+                <p>Desarrollado en Google Colab con Python y PySpark
+                </p>
+                 <h6 align="center">
+                En colaboración con: <a href="https://github.com/TanKv7" target="_blank">TanKv7</a>
+            </h6>
             </div>
         </td>
 <!--         <td width="33%">
