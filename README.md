@@ -70,7 +70,9 @@
             </h6>
             </div>
         </td>
-        <td width="33%">
+    </tr>
+    <tr>
+          <td width="33%">
             <h3 align="center">Predicción de diabetes</h3>
             <div align="center">
                 <a href="https://yummi-diabetes-prediction.onrender.com/form" target="_blank">
@@ -90,6 +92,7 @@
         </td>
     </tr>
 </table>
+
 
 ## Proyectos - Data analytics & Visualization 
 <table>
