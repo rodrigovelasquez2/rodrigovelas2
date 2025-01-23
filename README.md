@@ -104,6 +104,9 @@
                 </p>
                 <p>Coloca a tus amigos y descubre quien es tu amigo secreto.</p>
             </div>
+              <h5 align="center">
+                Interactuacon el proyecto <a href="https://rodrigovelasquez2.github.io/Challenge-Amigo-Secreto/" target="_blank">Ver proyecto</a>
+            </h5>
         </td>
     </tr>
 </table>
