@@ -33,7 +33,7 @@
 
 
 
-## Proyectos - Backend
+## Proyectos - Backend 
 <table>
     <tr>
         <td width="33%">
@@ -89,6 +89,21 @@
             <h6 align="center">
                 En colaboración con: <a href="https://github.com/TanKv7" target="_blank">TanKv7</a>
             </h6>
+        </td>
+              <td width="33%">
+            <h3 align="center">Amigo Secreto</h3>
+            <div align="center">
+                <a href="https://rodrigovelasquez2.github.io/Challenge-Amigo-Secreto/" target="_blank">
+                    <img src="https://github.com/user-attachments/assets/9e19cf29-700e-413d-9324-542fc6140fd2" width="400" alt="Amigo secreto">
+                </a>
+                <p>
+                    <a href="https://github.com/rodrigovelasquez2/Challenge-Amigo-Secreto" target="_blank">
+                        <img
+                            src="https://img.shields.io/badge/VER PROYECTO-00b4d8?style=for-the-badge&logo=github&logoColor=white">
+                    </a>
+                </p>
+                <p>Coloca a tus amigos y descubre quien es tu amigo secreto.</p>
+            </div>
         </td>
     </tr>
 </table>
